@@ -50,6 +50,11 @@ body{
     border-radius: 32px;
 }
 /*Main*/
+#about{
+    width: 100%;
+    height: 200px;
+}
+
 #main .carousel-inner img{
     max-height: 70vh;
     object-fit: cover;
