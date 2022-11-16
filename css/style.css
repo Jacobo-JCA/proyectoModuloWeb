@@ -18,6 +18,7 @@ body{
     color: #fff;
 }
 .hero::before{
+    /*es un pseudoelemento*/
     content: "";
     position: absolute;
     top: 0;
